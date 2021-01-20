@@ -3,10 +3,10 @@ package com.example.project_uas.catatan
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.lazday.kotlinroommvvm.R
-import com.lazday.kotlinroommvvm.catatan.room.Catat
-import com.lazday.kotlinroommvvm.catatan.room.CatatDB
-import com.lazday.kotlinroommvvm.catatan.room.Constant
+import com.example.project_uas.R
+import com.example.project_uas.catatan.room.Catat
+import com.example.project_uas.catatan.room.CatatDB
+import com.example.project_uas.catatan.room.Constant
 import kotlinx.android.synthetic.main.activity_edit2.button_save
 import kotlinx.android.synthetic.main.activity_edit2.button_update
 import kotlinx.android.synthetic.main.activity_edit2.edit_title
