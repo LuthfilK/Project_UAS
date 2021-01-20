@@ -4,8 +4,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.lazday.kotlinroommvvm.R
-import com.lazday.kotlinroommvvm.catatan.room.Catat
+import com.example.project_uas.R
+import com.example.project_uas.catatan.room.Catat
 import kotlinx.android.synthetic.main.adapter_main2.view.*
 
 class CatatAdapter (var catats: ArrayList<Catat>, var listener: OnAdapterListener) :
